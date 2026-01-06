@@ -26,7 +26,7 @@ Welcome to the **Number Guessing Game**! This is a simple logic-based game where
 > **Note:** Since `prompt()` is a browser function, if you run this in Node.js/GitHub Codespaces, you will need to replace `prompt` with a library like `prompt-sync`.
 
 ## 📂 File Structure
-- `index.js`: Contains the main game logic.
+- `game.js`: Contains the main game logic.
 - `README.md`: Project documentation.
 
 ## 🏷️ Keywords
